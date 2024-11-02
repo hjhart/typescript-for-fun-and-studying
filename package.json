@@ -1,0 +1,19 @@
+{
+  "name": "typescript-test-fun",
+  "version": "1.0.0",
+  "description": " Wherein I brush up my typescript for fun and study ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hjhart/typescript-for-fun-and-studying.git"
+  },
+  "author": "James Hart",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hjhart/typescript-for-fun-and-studying/issues"
+  },
+  "homepage": "https://github.com/hjhart/typescript-for-fun-and-studying#readme"
+}
